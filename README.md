@@ -25,7 +25,7 @@ Each folder is organized by:
 
 ## 🔗 Connect With Me
 
-👩‍💻 GitHub: [github.com/your-username](https://github.com/Veena-K-Venugopal)  
-💼 LinkedIn: [linkedin.com/in/your-linkedin-id](www.linkedin.com/in/veenakvenugopal)  
+👩‍💻 GitHub: [github.com/Veena-K-Venugopal](https://github.com/Veena-K-Venugopal)  
+💼 LinkedIn: [linkedin.com/in/veenakvenugopal](www.linkedin.com/in/veenakvenugopal)  
 <!--🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(optional)*-->
 
