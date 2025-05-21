@@ -23,6 +23,9 @@ Each folder is organized by:
 - Difficulty level: `easy/`, `intermediate/`, `advanced/`
 
 
-## 👩‍💻 Maintained by
+## 🔗 Connect With Me
 
-[Veena Kuttikkatt Venugopal](https://github.com/Veena-K-Venugopal)
+👩‍💻 GitHub: [github.com/your-username](https://github.com/Veena-K-Venugopal)  
+💼 LinkedIn: [linkedin.com/in/your-linkedin-id](www.linkedin.com/in/veenakvenugopal)  
+<!--🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(optional)*-->
+
