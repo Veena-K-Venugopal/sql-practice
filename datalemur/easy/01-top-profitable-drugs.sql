@@ -1,4 +1,4 @@
--- Problem: Top Profitable Drugs
+-- Problem: Top Profitable Drugs Part 1
 -- Source: DataLemur (CVS Health SQL Interview Question)
 -- Link: https://datalemur.com/questions/top-profitable-drugs
 -- Difficulty: Easy
