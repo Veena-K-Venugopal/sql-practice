@@ -10,7 +10,8 @@ Each question is solved using clean, readable SQL and saved in its own `.sql` fi
 | #  | Problem                          | Link                                                                 | File                              |
 |----|----------------------------------|----------------------------------------------------------------------|-----------------------------------|
 | 01 | Top Profitable Drugs             | [🔗 Problem](https://datalemur.com/questions/top-profitable-drugs)   | `01-top-profitable-drugs.sql`     |
-| 02 | _Coming Soon_                    | –                                                                    | –                                 |
+| 02 | Non Profitable Drugs             | [🔗 Problem](https://datalemur.com/questions/non-profitable-drugs)   | `02-non-profitable-drugs.sql`     |
+| 03 | _Coming Soon_                    | –                                                                    | –                                 |
 
 > 💡 You can copy and run each SQL file as-is if you have access to a database with a similar schema.
 >  
@@ -25,6 +26,7 @@ sql-practice/
 ├── datalemur/
 │   ├── easy/
 │   │   ├── 01-top-profitable-drugs.sql
+|   |   ├── 02-non-profitable-drugs.sql 
 │   │   └── README.md
 │   └── medium/
 │       └── README.md
