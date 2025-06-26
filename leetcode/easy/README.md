@@ -11,6 +11,7 @@ Each question is solved using clean, readable SQL and saved in its own `.sql` fi
 |----|----------------------------------|----------------------------------------------------------------------|-----------------------------------|
 | 01 | Recyclable & Low Fat Products                | [🔗 Problem](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)   | `01-recyclable-and-low-fat-products.sql`     |
 | 06 | Unique id of Employees with NULL             | [🔗 Problem](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50)   | `06-unique-id.sql`     |
+| 07 | Product Sales Analysis 1             | [🔗 Problem](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50)   | `07-product-sales-analysis-1.sql`     |
 | 02 | _Coming Soon_                    | –                                                                    | –                                 |
 
 > 💡 You can copy and run each SQL file as-is if you have access to a database with a similar schema.
