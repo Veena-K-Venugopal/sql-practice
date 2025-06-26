@@ -11,14 +11,20 @@ If no unique ID exists, show NULL.
 ----------------------------------------
 🧾 Table Schema:
 Table: Employees
-Columns:
-- id    | int
-- name  | varchar
++--------------+---------+
+| Column Name  | Type    |
++--------------+---------+
+| id           | int     |
+| name         | varchar |
++--------------+---------+
 
 Table: EmployeeUNI
-Columns:
-- id            | int
-- unique_id     | int
++--------------+---------+
+| Column Name  | Type    |
++--------------+---------+
+| id            | int     |
+| unique_id     | int |
++--------------+---------+
 
 ----------------------------------------
 💡 Thought Process:
