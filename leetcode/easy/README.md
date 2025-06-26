@@ -9,7 +9,8 @@ Each question is solved using clean, readable SQL and saved in its own `.sql` fi
 
 | #  | Problem                          | Link                                                                 | File                              |
 |----|----------------------------------|----------------------------------------------------------------------|-----------------------------------|
-| 01 | Recyclable & Low Fat Products             | [🔗 Problem](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)   | `01-recyclable-and-low-fat-products.sql`     |
+| 01 | Recyclable & Low Fat Products                | [🔗 Problem](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)   | `01-recyclable-and-low-fat-products.sql`     |
+| 06 | Unique id of Employees with NULL             | [🔗 Problem](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50)   | `06-unique-id.sql`     |
 | 02 | _Coming Soon_                    | –                                                                    | –                                 |
 
 > 💡 You can copy and run each SQL file as-is if you have access to a database with a similar schema.
@@ -31,6 +32,7 @@ sql-practice/
 ├── leetcode/
 │   ├── easy/
 │   │   ├── 01-recyclable-and-low-fat-products.sql
+|   |   ├── 06-unique-id.sql      
 │   │   └── README.md
 │   └── medium/
 │       └── README.md
