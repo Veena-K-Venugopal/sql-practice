@@ -32,7 +32,8 @@ sql-practice/
 ├── leetcode/
 │   ├── easy/
 │   │   ├── 01-recyclable-and-low-fat-products.sql
-|   |   ├── 06-unique-id.sql      
+|   |   ├── 06-unique-id.sql  
+|   |   ├── 07-product-sales-analysis-1.sql      
 │   │   └── README.md
 │   └── medium/
 │       └── README.md
