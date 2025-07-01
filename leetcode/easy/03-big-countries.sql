@@ -9,7 +9,7 @@ Return the resulting table in any order.
 
 📌 Source: Leetcode (SQL 50)
 🔗 Link: https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50
-🏷️ Tags: WHERE, NOT
+🏷️ Tags: WHERE, OR
 
 ----------------------------------------
 🧾 Table Schema:
