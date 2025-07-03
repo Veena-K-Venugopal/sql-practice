@@ -17,7 +17,6 @@ Each question is solved using clean, readable SQL and saved in its own `.sql` fi
 | 06 | Unique id of Employees with NULL             | [🔗 Problem](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50)   | `06-unique-id.sql`     |
 | 07 | Product Sales Analysis 1             | [🔗 Problem](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50)   | `07-product-sales-analysis-1.sql`     |
 | 08 | Customers without Transactions             | [🔗 Problem](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50)   | `08-customer-without-transactions.sql`     |
-| 09 | _Coming Soon_                    | –                                                                    | –                                 |
 
 > 💡 You can copy and run each SQL file as-is if you have access to a database with a similar schema.
 >  
@@ -39,12 +38,7 @@ sql-practice/
 │   ├── easy/
 │   │   ├── 01-recyclable-and-low-fat-products.sql
 │   │   ├── 02-customer-referee.sql
-│   │   ├── 03-big-countries.sql
-│   │   ├── 04-article-views-1.sql
-│   │   ├── 05-invalid-tweets.sql
-|   |   ├── 06-unique-id.sql  
-|   |   ├── 07-product-sales-analysis-1.sql      
-|   |   ├── 08-customer-without-transactions.sql      
+│   │   ├── 03-big-countries.sql    
 │   │   └── README.md
 │   └── medium/
 │       └── README.md
