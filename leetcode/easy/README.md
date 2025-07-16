@@ -18,6 +18,7 @@ Each question is solved using clean, readable SQL and saved in its own `.sql` fi
 | 07 | Product Sales Analysis 1             | [🔗 Problem](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50)   | `07-product-sales-analysis-1.sql`     |
 | 08 | Customers without Transactions             | [🔗 Problem](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50)   | `08-customer-without-transactions.sql`     |
 | 09 | Rising Temperatures             | [🔗 Problem](https://leetcode.com/problems/rising-temperature/?envType=study-plan-v2&envId=top-sql-50)   | `09-rising-temperature.sql`     |
+| 10 | Average Processing Times             | [🔗 Problem](https://leetcode.com/problems/average-time-of-process-per-machine/submissions/1700229318/?envType=study-plan-v2&envId=top-sql-50)   | `09-rising-temperature.sql`     |
 
 > 💡 You can copy and run each SQL file as-is if you have access to a database with a similar schema.
 >  

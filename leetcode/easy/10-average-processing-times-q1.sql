@@ -1,23 +1,24 @@
 /* 
 ----------------------------------------
 📝 Problem Description:
-Report the names of customers that are not referred by customer with id = 2
+Find the average time each machine takes to complete a process rounded off to 3 decimal places
 Return the resulting table in any order.
 
 📌 Source: Leetcode (SQL 50)
-🔗 Link: https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50
+🔗 Link: https://leetcode.com/problems/average-time-of-process-per-machine/submissions/1700229318/?envType=study-plan-v2&envId=top-sql-50
 🏷️ Tags: WHERE, JOIN, AVG(), ROUND()
 
 ----------------------------------------
 🧾 Table Schema:
-Table: Customer
-+-------------+---------+
-| Column Name | Type    |
-+-------------+---------+
-| id          | int     |
-| name        | varchar |
-| referee_id  | int     |
-+-------------+---------+
+Table: Activity
++----------------+---------+
+| Column Name    | Type    |
++----------------+---------+
+| machine_id     | int     |
+| process_id     | int     |
+| activity_type  | enum    |
+| timestamp      | float   |
++----------------+---------+
 
 ----------------------------------------
 💡 Thought Process:
