@@ -20,6 +20,7 @@ Each question is solved using clean, readable SQL and saved in its own `.sql` fi
 | 09 | Rising Temperatures             | [🔗 Problem](https://leetcode.com/problems/rising-temperature/?envType=study-plan-v2&envId=top-sql-50)   | `09-rising-temperature.sql`     |
 | 10.a | Average Processing Times             | [🔗 Problem](https://leetcode.com/problems/average-time-of-process-per-machine/submissions/1700229318/?envType=study-plan-v2&envId=top-sql-50)   | `10-average-processing-times-q1.sql`     |
 | 10.b | Average Processing Times (pivoted CTE)             | [🔗 Problem](https://leetcode.com/problems/average-time-of-process-per-machine/submissions/1700229318/?envType=study-plan-v2&envId=top-sql-50)   | `10-average-processing-times-q2.sql`     |
+| 11 | Employee Bonus             | [🔗 Problem](https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50)   | `11-employee-bonus.sql`     |
 
 > 💡 You can copy and run each SQL file as-is if you have access to a database with a similar schema.
 >  
